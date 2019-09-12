@@ -27,7 +27,7 @@
   "vendored_frameworks": "XZLWXBSDK/**/*.framework",
   "resource_bundles": {
     "XZLWXBSDKResource": [
-      "XZLWXBSDK/**/*.{png,js,lproj}"
+      "XZLWXBSDK/**/*.{png,js}"
     ]
   },
   "dependencies": {

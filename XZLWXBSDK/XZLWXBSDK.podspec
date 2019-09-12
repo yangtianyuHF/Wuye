@@ -11,7 +11,7 @@ Pod::Spec.new do |s|
   s.frameworks = 'UIKit','CoreGraphics','Photos','AVFoundation','AssetsLibrary'
   s.vendored_frameworks ='XZLWXBSDK/**/*.framework'
   s.resource_bundles = {
-      'XZLWXBSDKResource' => ['XZLWXBSDK/**/*.{png,js,lproj}']
+      'XZLWXBSDKResource' => ['XZLWXBSDK/**/*.{png,js}']
   }
 
   s.dependency 'MBProgressHUD'
