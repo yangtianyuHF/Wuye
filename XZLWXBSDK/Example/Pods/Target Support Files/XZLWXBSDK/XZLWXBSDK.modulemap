@@ -1,0 +1,6 @@
+framework module XZLWXBSDK {
+  umbrella header "XZLWXBSDK-umbrella.h"
+
+  export *
+  module * { export * }
+}
