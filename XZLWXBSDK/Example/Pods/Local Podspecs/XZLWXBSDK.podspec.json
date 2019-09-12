@@ -24,10 +24,10 @@
     "AVFoundation",
     "AssetsLibrary"
   ],
-  "vendored_frameworks": "XZLWXBSDK/Classes/Frameworks/XZLWXBSDK.framework",
+  "vendored_frameworks": "XZLWXBSDK/**/*.framework",
   "resource_bundles": {
     "XZLWXBSDKResource": [
-      "XZLWXBSDK/Assets/*"
+      "XZLWXBSDK/**/*.{png,js,lproj}"
     ]
   },
   "dependencies": {

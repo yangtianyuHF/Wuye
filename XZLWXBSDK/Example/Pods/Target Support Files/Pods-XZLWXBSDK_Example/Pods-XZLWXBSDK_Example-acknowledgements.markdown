@@ -94,6 +94,8 @@ THE SOFTWARE.
 
 ## XZLWXBSDK
 
+Version 1.0.0
+Created by yangtianyu on 2019/09/12.
 Copyright (c) 2019 杨天宇 <164878873@qq.com>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy

@@ -9,9 +9,9 @@ Pod::Spec.new do |s|
   s.source           = { :git => 'https://github.com/yangtianyuHF/Wuye.git', :tag => s.version.to_s }
   s.ios.deployment_target = '9.0'
   s.frameworks = 'UIKit','CoreGraphics','Photos','AVFoundation','AssetsLibrary'
-  s.vendored_frameworks ='XZLWXBSDK/Classes/Frameworks/XZLWXBSDK.framework'
+  s.vendored_frameworks ='XZLWXBSDK/**/*.framework'
   s.resource_bundles = {
-      'XZLWXBSDKResource' => ['XZLWXBSDK/Assets/*']
+      'XZLWXBSDKResource' => ['XZLWXBSDK/**/*.{png,js,lproj}']
   }
 
   s.dependency 'MBProgressHUD'
