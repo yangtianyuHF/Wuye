@@ -1,7 +1,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'XZLWXBSDK'
-  s.version          = '1.0.0'
+  s.version          = '0.5.0'
   s.summary          = '新再灵维小保SDK'
   s.homepage         = 'https://github.com/yangtianyuHF/Wuye'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
